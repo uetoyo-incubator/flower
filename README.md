@@ -1,3 +1,3 @@
-# Veletok
+# Geos
 
-Maybe data flow library?
+Geoscience toolkit
